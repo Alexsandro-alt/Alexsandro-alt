@@ -1,4 +1,4 @@
-Olá! eu sou Alexsandro de Paulo 👋
+Olá! Eu sou Alexsandro de Paulo 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@codigo.211)
 
