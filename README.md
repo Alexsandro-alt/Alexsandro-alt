@@ -1,6 +1,6 @@
 Olá! Eu sou Alexsandro de Paulo 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@codigo.211)
+
 
 ![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandro-alt&show_icons=true&theme=dark) 
 
