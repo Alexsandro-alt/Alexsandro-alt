@@ -1,10 +1,10 @@
-Olá! Eu sou Alexsandro de Paulo 👋
+Hello! I am Alexsandro de Paulo 👋
 
 
 
 ![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandro-alt&show_icons=true&theme=dark) 
 
-## Linguagens de domínio
+## Domain languages.
 
 <div style="display: inline_block"><br/>
   <img olign= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,4 +22,4 @@ Olá! Eu sou Alexsandro de Paulo 👋
   <img olign= "center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </div><br/>
 
-## Apaixonado por Mecânica e Tecnologia!
+## Passionate about Mechanics and Technology!
