@@ -4,7 +4,7 @@ Olá! Eu sou Alexsandro de Paulo 👋
 
 ![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandro-alt&show_icons=true&theme=dark) 
 
-## Linguagens que domino.
+## Linguagens de domínio
 
 <div style="display: inline_block"><br/>
   <img olign= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
