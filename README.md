@@ -2,9 +2,6 @@ Hello! I am Alexsandro👋
 "The future of technology lies in how it redefines us, not just what it creates."
 
 
-
-![Alexsandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandro-alt&show_icons=true&theme=dark) 
-
 ## Domain languages.
 
 <div style="display: inline_block"><br/>
