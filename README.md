@@ -1,4 +1,4 @@
-Hello! I am Alexsandro de Paulo 👋
+Hello! I am Alexsandro👋
 "The future of technology lies in how it redefines us, not just what it creates."
 
 
